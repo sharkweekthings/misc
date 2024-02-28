@@ -3,8 +3,7 @@
 Zip to Coord - Converts a Zip Code to latitude and longitude
 
 Distance Calculator - Calculates the distance between coordinates to specified locations using latitude and longitude
--
--
+
 MP3 Converter - convert audio files to mp3
 
 WEBP to PNG - Converts .WEBP files to .PNG files
